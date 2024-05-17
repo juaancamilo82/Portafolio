@@ -219,7 +219,7 @@ header h1 {
 }
 
 #resume {
-	background: #efe1bd;
+	background: #d8e3ef;
 }
 #studies {
 	background: #1f1f1f;
@@ -263,7 +263,8 @@ header h1 {
 	padding: 5px 8px 5px 8px !important;
 	vertical-align: baseline;
 	background-color: #1f1f1f !important;
-	color: black;
+	//color: black;
+	color: #ececec;
 	font-weight: lighter !important;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
@@ -366,7 +367,7 @@ header h1 {
 }
 
 #portfolio {
-	background: #efe1bd;
+	background: #d8e3ef;
 	padding-bottom: 5%;
 }
 
@@ -403,6 +404,14 @@ header h1 {
 
 #skills {
 	background: #1F1F1F;
+	min-height: 200px;
+	width: 100%;
+	overflow: hidden;
+	padding-bottom: 10%;
+}
+
+#cv {
+	background: #ffffff;
 	min-height: 200px;
 	width: 100%;
 	overflow: hidden;
@@ -450,4 +459,42 @@ footer a:focus {
 .social-links {
 	margin-top: 50px;
 	font-size: 22px;
+}
+
+///////////////
+
+#cv {
+	text-align: center;
+}
+
+.button {
+	display: inline-block;
+	background-color: #007bff; /* Color de fondo del botón */
+	color: #fff; /* Color del texto del botón */
+	font-size: 16px;
+	padding: 10px 20px;
+	border-radius: 5px; /* Bordes redondeados */
+	cursor: pointer;
+	box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1); /* Sombra */
+	text-decoration: none; /* Quitar subrayado del texto si es un enlace */
+	border: none; /* Sin borde */
+}
+
+.download-button:hover {
+	background-color: #0056b3; /* Cambia el color de fondo al pasar el cursor */
+}
+
+.text-center {
+	text-align: center;
+	font-size: 20px;
+}
+
+.experience-text {
+	white-space: break-spaces;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	text-align: justify;
+	background: antiquewhite;
+	border-radius: 5px;
+	padding: 3px;
 }
