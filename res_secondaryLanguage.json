@@ -22,7 +22,8 @@
         "startDate": "2024",
         "description": "Descubre cómo crear una VPN que permite conexiones seguras a una red privada a través de un servidor en AWS, utilizando la imagen de Docker para su despliegue. Esta solución gratuita garantiza la protección de los datos y la integridad de las comunicaciones en entornos tanto públicos como privados.",
         "images": [
-          "images/portfolio/vpnWireguard/wireguard.png"   
+          "images/portfolio/vpnWireguard/wireguard.png",
+          "images/portfolio/vpnWireguard/wgeasy.png"
         ],
         "url": "https://github.com/juaancamilo82/VPN-con-wireguard",
         "technologies": [
@@ -49,7 +50,7 @@
           "Parque del Café"
         ],
         "description": [
-          "REST API"
+          "En mi rol como Desarrollador de Software en el Parque del Café, realicé pruebas exhaustivas de calidad y colaboré con ingenieros para cumplir con los plazos y presupuestos. Destacaron mis logros en el desarrollo de un módulo de gestión de contrataciones y la creación de un mapa interactivo con tecnología Leap Motion para el museo del parque."
         ]
       },
       {
@@ -59,7 +60,7 @@
           "Parque del café"
         ],
         "description": [
-          "Como taquillero en el Parque del Café, me desempeñé en una variedad de funciones clave para garantizar una experiencia satisfactoria para los visitantes. Desde la venta de tiquetes en el parqueadero hasta la orientación de los visitantes sobre las atracciones y servicios disponibles, mi enfoque estaba en brindar un servicio amable y eficiente. Además, gestioné el acceso al parque, verificando las entradas y respondiendo a las consultas de los visitantes de manera profesional y cortés. Mi compromiso con la satisfacción del cliente contribuyó a mantener un ambiente acogedor y positivo en el parque."
+          "Como taquillero en el Parque del Café, gestioné la venta de tiquetes, orienté a los visitantes sobre las atracciones y servicios, y verifiqué entradas, asegurando una experiencia eficiente y agradable. Mi enfoque en la satisfacción del cliente contribuyó a un ambiente acogedor y positivo."
         ]
       }
     ],
