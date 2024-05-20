@@ -69,7 +69,8 @@
       "startDate": "2024",
       "description": "Discover how to create a VPN that allows secure connections to a private network through a server in AWS, using the Docker image for deployment. This free solution ensures data protection and communications integrity in both public and private environments.",
       "images": [
-        "images/portfolio/vpnWireguard/wireguard.png"
+        "images/portfolio/vpnWireguard/wireguard.png",
+        "images/portfolio/vpnWireguard/wgeasy.png"
       ],
       "url": "https://github.com/juaancamilo82/VPN-con-wireguard",
       "technologies": [
@@ -96,7 +97,7 @@
         "Coffee Park"
       ],
       "description": [
-        "REST API"
+        "In my role as a Software Developer at Parque del Café, I performed extensive quality testing and collaborated with engineers to meet deadlines and budgets. They highlighted my achievements in developing a hiring management module and creating an interactive map using Leap Motion technology for the park museum."
       ]
     },
     {
@@ -106,7 +107,7 @@
         "Coffee Park"
       ],
       "description": [
-        "As a Ticket Operator at the Coffee Park, I served in a variety of key roles to ensure a satisfying visitor experience. From selling tickets in the parking lot to guiding visitors to the attractions and services available, my focus was on providing friendly and efficient service. Additionally, I managed access to the park, verifying tickets and responding to visitor inquiries in a professional and courteous manner. My commitment to customer satisfaction helped maintain a welcoming and positive environment at the park."
+        "As a ticket agent at Parque del Café, I managed ticket sales, oriented visitors to attractions and services, and verified tickets, ensuring an efficient and pleasant experience. My focus on customer satisfaction contributed to a welcoming and positive environment."
       ]
     }
   ]
