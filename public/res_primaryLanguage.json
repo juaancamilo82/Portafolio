@@ -27,6 +27,15 @@
       ]
     },
     {
+      "title": "Certification in Ethical Hacking",
+      "mainTech": [
+        "EAM University"
+      ],
+      "date": [
+        "2024 - Finalized"
+      ]
+    },
+    {
       "title": "Technology in software development",
       "mainTech": [
         "EAM University"
@@ -85,6 +94,22 @@
         {
           "class": "devicon-amazonwebservices-plain",
           "name": "AWS"
+        }
+      ]
+    },
+    {
+      "title": "Telegram Bot Automatic Dollar Price Consultation",
+      "startDate": "2024",
+      "description": "This project demonstrates how to create a Telegram bot that automatically queries and sends the current price of the dollar in Colombia. Using python-telegram-bot and BeautifulSoup for web scraping. Furthermore, the bot is programmed to send the price daily at a specific time, ensuring regular updates without manual intervention.",
+      "images": [
+        "images/botTelegram/vpnWireguard/img1.png",
+        "images/botTelegram/vpnWireguard/img2.png"
+      ],
+      "url": "https://github.com/juaancamilo82/Bot_Telegram",
+      "technologies": [
+        {
+          "class": "devicon-python-plain",
+          "name": "python"
         }
       ]
     }

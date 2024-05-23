@@ -40,6 +40,22 @@
             "name": "AWS"
           }
         ]
+      },
+      {
+        "title": "Bot Telegram Consulta Automática precio del Dólar",
+        "startDate": "2024",
+        "description": "Este proyecto demuestra cómo crear un bot de Telegram que consulta y envía automáticamente el precio actual del dólar en Colombia. Utilizando python-telegram-bot y BeautifulSoup para la web scraping. Además, el bot está programado para enviar el precio diariamente a una hora específica, asegurando actualizaciones periódicas sin intervención manual.",
+        "images": [
+          "images/botTelegram/vpnWireguard/img1.png",
+          "images/botTelegram/vpnWireguard/img2.png"
+        ],
+        "url": "https://github.com/juaancamilo82/Bot_Telegram",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "python"
+          }
+        ]
       }
     ],
     "experience": [
@@ -72,6 +88,15 @@
         ],
         "date": [
          "2019 - Actualmente"
+        ]
+      },
+      {
+        "title": "Certificación en Hacking Ético",
+        "mainTech": [
+          "Universidad EAM"
+        ],
+        "date": [
+          "2024 - Finalizado"
         ]
       },
       {
