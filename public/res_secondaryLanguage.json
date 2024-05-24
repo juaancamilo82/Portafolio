@@ -57,6 +57,22 @@
             "name": "python"
           }
         ]
+      },
+      {
+        "title": "Generador de contraseñas",
+        "startDate": "2024",
+        "description": "Desarrollé un generador de contraseñas en Python que permite a los usuarios crear contraseñas seguras y personalizadas. El programa ofrece opciones para incluir letras mayúsculas, minúsculas, números y caracteres especiales, y permite guardar las contraseñas generadas en un archivo y copiar la primera al portapapeles.",
+        "images": [
+          "images/portfolio/passwordGenerator/img1.png",
+          "images/portfolio/passwordGenerator/img2.png"
+        ],
+        "url": "https://github.com/juaancamilo82/PasswordGenerator",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          }
+        ]
       }
     ],
     "experience": [
