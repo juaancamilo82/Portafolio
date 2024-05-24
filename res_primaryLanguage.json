@@ -112,6 +112,22 @@
           "name": "python"
         }
       ]
+    },
+    {
+      "title": "Password generator",
+      "startDate": "2024",
+      "description": "I developed a password generator in Python that allows users to create strong, custom passwords. The program offers options to include uppercase letters, lowercase letters, numbers and special characters, and allows you to save the generated passwords in a file and copy the first one to the clipboard.",
+      "images": [
+        "images/portfolio/passwordGenerator/img1.png",
+        "images/portfolio/passwordGenerator/img2.png"
+      ],
+      "url": "https://github.com/juaancamilo82/PasswordGenerator",
+      "technologies": [
+        {
+          "class": "devicon-python-plain",
+          "name": "Python"
+        }
+      ]
     }
   ],
   "experience": [
