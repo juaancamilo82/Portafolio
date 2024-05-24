@@ -98,7 +98,7 @@
       ]
     },
     {
-      "title": "Telegram Bot Automatic Dollar Price Consultation",
+      "title": "Telegram Bot",
       "startDate": "2024",
       "description": "This project demonstrates how to create a Telegram bot that automatically queries and sends the current price of the dollar in Colombia. Using python-telegram-bot and BeautifulSoup for web scraping. Furthermore, the bot is programmed to send the price daily at a specific time, ensuring regular updates without manual intervention.",
       "images": [
