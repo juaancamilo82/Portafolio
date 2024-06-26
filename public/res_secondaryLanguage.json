@@ -42,7 +42,7 @@
         ]
       },
       {
-        "title": "Bot Telegram Consulta Automática precio del Dólar",
+        "title": "Bot Telegram",
         "startDate": "2024",
         "description": "Este proyecto demuestra cómo crear un bot de Telegram que consulta y envía automáticamente el precio actual del dólar en Colombia. Utilizando python-telegram-bot y BeautifulSoup para la web scraping. Además, el bot está programado para enviar el precio diariamente a una hora específica, asegurando actualizaciones periódicas sin intervención manual.",
 
